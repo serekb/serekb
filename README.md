@@ -1,0 +1,3 @@
+-I'm a middle school student learning how to code
+-I'm working alone based on Frontend Simplified
+-Currently just a beginner 
