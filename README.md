@@ -1,3 +1,4 @@
- -I'm a middle school student learning how to code
- -I'm working alone based on Frontend Simplified
- -Currently just a beginner 
+ - AGH university IAD student
+ - Currently just a beginner 
+ - Here are some of the programs I made for classes
+ - Mostly code in C but in future also Python, Java or R
